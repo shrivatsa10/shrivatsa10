@@ -1,10 +1,10 @@
 ### Hello! 👋
 
 <a href="https://twitter.com/VatzTweets">
-  <img align="left" alt="Shrivatsa's Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img align="left" alt="Shrivatsa's Twitter" width="122px" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
 </a>
 <a href="https://www.linkedin.com/in/shrivatsa-krishna-4573b1151/">
-  <img align="left" alt="Shrivatsa's Linkdein" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Shrivatsa's Linkdein" width="122px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/>
@@ -12,8 +12,7 @@
 
 
 
-Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | ML webapps with Flask |
-【P】【y】【t】【h】【o】【n】
+Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | ML webapps with Flask |👨‍💻
 
 ## About ::
    B.E. 3rd year Electronics and Communication Engineering student from Bharati Vidyapeeth's College of Engineering, New Delhi. Passionate about Data Science, Machine Learning and Data Analysis. Also, have some experience in graphic designing with photoshop . Currently learning new technologies to implement on real world projects.
@@ -21,11 +20,13 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 
 [![character-1.gif](https://i.postimg.cc/L4ghcd8x/character-1.gif)](https://postimg.cc/BtsqFVDF)
   
-## Technologies :sunglasses:
+## Technologies 😎 :
 - Data Analysis with **Python**.
 - Data Science.
 - Python.
 - Machine Learning
+- Flask
+- HTML
 - Deep Learning
 
 
