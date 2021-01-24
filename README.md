@@ -1,25 +1,38 @@
 ### Hello! 👋
-[![header.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[npm-image]
-[![header1.png](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)[np-image]
 
-I'm Shrivatsa Krishna, Student at 👨‍💻 Bharati Vidyapeeth's College of Engineering, New Delhi pursuing B.Tech in Electronics and Communication. 
-I'm pursuing data science as career working on projects for the same. I've also tried my hand at graphic designing! I have designed logos for a few applications as well. I am a highly motivated individual with a passion for constant developing skills and growing professionally.
-Would want myself to grow into a successful Data Scientist of tomorrow!
+<a href="https://twitter.com/VatzTweets">
+  <img align="left" alt="Shrivatsa's Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shrivatsa-krishna-4573b1151/">
+  <img align="left" alt="Shrivatsa's Linkdein" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<!--
-**shrivatsa10/shrivatsa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://www.linkedin.com/in/shrivatsa-krishna-4573b1151/
-[np-image]: https://twitter.com/VatzTweets
+
+Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | ML webapps with Flask |
+【P】【y】【t】【h】【o】【n】
+
+## About ::
+   B.E. 3rd year Electronics and Communication Engineering student from Bharati Vidyapeeth's College of Engineering, New Delhi. Passionate about Data Science, Machine Learning and Data Analysis. Also, have some experience in graphic designing with photoshop . Currently learning new technologies to implement on real world projects.
+
+
+[![character-1.gif](https://i.postimg.cc/L4ghcd8x/character-1.gif)](https://postimg.cc/BtsqFVDF)
+  
+## Technologies :sunglasses:
+- Data Analysis with **Python**.
+- Data Science.
+- Python.
+- Machine Learning
+- Deep Learning
+
+
+<a href="https://github.com/Neel2904">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivatsa10&theme=radical&hide=glsl,python" />
+</a>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=shrivatsa10&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
