@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! 👋
+[![header.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[npm-image]
+[![header1.png](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)[np-image]
+
+I'm Shrivatsa Krishna, Student at 👨‍💻 Bharati Vidyapeeth's College of Engineering, New Delhi pursuing B.Tech in Electronics and Communication. 
+I'm pursuing data science as career working on projects for the same. I've also tried my hand at graphic designing! I have designed logos for a few applications as well. I am a highly motivated individual with a passion for constant developing skills and growing professionally.
+Would want myself to grow into a successful Data Scientist of tomorrow!
 
 <!--
 **shrivatsa10/shrivatsa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://www.linkedin.com/in/shrivatsa-krishna-4573b1151/
+[np-image]: https://twitter.com/VatzTweets
