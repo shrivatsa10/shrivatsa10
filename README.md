@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 <a href="https://twitter.com/VatzTweets">
-  <img align="left" alt="Shrivatsa's Twitter" width="115px" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
+  <img align="left" alt="Shrivatsa's Twitter" width="108px" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
 </a>
 <a href="https://www.linkedin.com/in/shrivatsa-krishna-4573b1151/">
   <img align="left" alt="Shrivatsa's Linkdein" width="122px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
