@@ -18,7 +18,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
    B.TECH 3rd year Electronics and Communication Engineering student from Bharati Vidyapeeth's College of Engineering, New Delhi. Passionate about Data Science, Machine Learning and Data Analysis. Also, have some experience in graphic designing with photoshop . Currently learning new technologies to implement on real world projects.
 
 
-[![character-1.gif](https://i.postimg.cc/L4ghcd8x/character-1.gif)](https://postimg.cc/BtsqFVDF|width=100)
+[![character-1.gif](https://i.postimg.cc/L4ghcd8x/character-1.gif)](https://postimg.cc/BtsqFVDF=250x250)
   
 ## Technologies 😎 :
 - Data Analysis with **Python**.
