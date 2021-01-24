@@ -1,4 +1,4 @@
-### Hello! 👋
+## Hello! 👋
 
 <a href="https://twitter.com/VatzTweets">
   <img align="left" alt="Shrivatsa's Twitter" width="108px" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
@@ -15,7 +15,7 @@
 Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | ML webapps with Flask |👨‍💻
 
 ## About ::
-   B.E. 3rd year Electronics and Communication Engineering student from Bharati Vidyapeeth's College of Engineering, New Delhi. Passionate about Data Science, Machine Learning and Data Analysis. Also, have some experience in graphic designing with photoshop . Currently learning new technologies to implement on real world projects.
+   B.TECH 3rd year Electronics and Communication Engineering student from Bharati Vidyapeeth's College of Engineering, New Delhi. Passionate about Data Science, Machine Learning and Data Analysis. Also, have some experience in graphic designing with photoshop . Currently learning new technologies to implement on real world projects.
 
 
 [![character-1.gif](https://i.postimg.cc/L4ghcd8x/character-1.gif)](https://postimg.cc/BtsqFVDF)
