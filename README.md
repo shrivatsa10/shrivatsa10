@@ -19,7 +19,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 
 
 
-<img src="https://i.postimg.cc/L4ghcd8x/character-1.gif" width="550" height="400">
+<img src="https://i.postimg.cc/L4ghcd8x/character-1.gif" width="550" height="400" class="center">
   
 ## Technologies 😎 :
 - Data Analysis with **Python**.
